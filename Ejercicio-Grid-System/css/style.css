@@ -1,0 +1,50 @@
+/* Inserta tu código aqui */
+header{
+	background: #333333;
+	
+}
+.container h1{
+	width: 25%;
+	padding-top:10px;
+	padding-bottom: 10px;
+}
+
+.container nav ul li{
+	display: inline-block;
+	padding-left: 20px;
+
+}
+
+.container nav ul li a{
+	text-decoration: none;
+	color:white;
+}
+
+.container h1,
+.container nav{
+	vertical-align: middle;
+	display: inline-block;
+}
+
+.container_Latest{
+	background: #eeeeee;
+}
+
+.col-3{
+	text-align: center;
+}
+
+.col-3 a img{
+	width: 100%;
+	height: 100%;
+
+}
+
+.col-5 a img{
+	width: 100%;
+	height: 100%;
+}
+
+.col-5{
+	text-align: center;
+}
